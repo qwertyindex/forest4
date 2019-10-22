@@ -1,6 +1,6 @@
 ---
 layout: home
-title: QWERTY Index
+title: Under construction...
 metaTitle: QWERTY Index
 metaDesc: Random geekiness from a random person
 postsHeading: Latest posts
