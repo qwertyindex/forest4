@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: Laffler Talk
 date: 2019-10-22T15:19:38.551Z
 tags:
-  - ''
+  - work stuff
 ---
 I'm part of the trio of Rappler punsters hosting a podcast on anything under the sun.
 
