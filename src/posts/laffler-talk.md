@@ -1,6 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Laffler Talk
+socialImage: /images/laffler2.jpg
 date: 2019-10-22T15:19:38.551Z
 tags:
   - work stuff
